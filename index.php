@@ -34,7 +34,7 @@ switch ($uri) {
             align-items: center;
             width: 100%;
             height: 100vh;
-            margin: 0;
+            margin: auto;
             background: linear-gradient(to bottom right, #F8FBFD, #4BA3C3);
         }
 
